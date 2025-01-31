@@ -30,7 +30,7 @@ public class Main {
         System.out.println("Multiplication: " + (double1 * double2));
         System.out.println("Division: " + (double1 / double2));
         System.out.println("Modulus: " + (double1 % double2));
-
+//hi
         scanner.close();
     }
 }
